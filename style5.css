@@ -1,0 +1,40 @@
+body{
+    background-color: beige;
+    font-family: Arial,sans-serif;
+}
+h1{
+    text-align: center;
+    color: darkblue;
+}
+.carte{
+    position: relative;
+    width: 400px;
+    padding: 20px;
+    margin: 50px auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px gray;
+    background-color:lightblue;
+}
+.badge{
+  background-color: azure;
+    color: black;
+    padding: 3px;
+    border-radius: 10px;
+    font-size: 10px;position: absolute;
+}
+img{
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 3px 6px gray;
+}
+h2{
+    color: palevioletred;
+}
+h3{
+    color: steelblue;
+}
+li{
+    margin-bottom: 8px;
+}
